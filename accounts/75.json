@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kanna-chan-mirror-drive",
+  "private_key_id": "b3ed86c86ba5c5b9545e4c4ff0917664a746869b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1gGZ6YRjf7D7D\nMKWgF1ad71gP9OfyEH5cW2GQL1onYyGHVqUf7zEuHS4IBXww3adzBlg49PsDhfzj\n4Cm2iyoXyZILxt/bIduaOGaltuGTVX0ea8Wj88iZZv8YMDSF4/M8jO3+WhKbH9To\nZntAcwUHuXZphfqRrsKy/VUiB8MBXhx/Fc3qA5XqV1ywBDucLKRnQuUZMzk1ravO\ncH2oyG6/rMu6L6bn7AvodWRsBTJbiVhmS2/5v6KLTUh0KVsEr0PgcQyYdtadJZjx\nA7Tyf57AVbfRvz74jy10JsjVQD2xHb6cm5d7IHD2Kzcn7aaA9/yuQCYXpqfkFAKt\nha8GluDTAgMBAAECggEACHkfj5wD0MRTI8KcIM6mHQZk6o3I3DyX4ZDki5oiT89p\na8uINubwOVJkaTx0UUWvwQdtS+9n3oC9TxgSanKxut2Oo10b6zt36Im0hQz2F+44\nQpjOZ7qERWERDJyHfy6mls+Pdr3Wu4YvZtAN9fLIq9UlKYT3LyDk9v0rocSR/njF\noaUsWqCsYtBkTreGU3sVjA/OBsZt9ar2dV0R7p83fY/rjZhZLTJVrxh564ijKKJo\nDpOCW9hpLFd3fPY5U/PbGeXekmvCTPgnBhcxU7P4bVHFubdGQiltG/Smn+GZ4qZd\nP/o/4BfDls53jIoKvThzjrwi/s+qaAakivIsSf4oUQKBgQDe2fbXiviWD0tRFGmW\nlWhbuEm2szr2NLMy4drcOvRA4NCgq9JPE/HYtM8DbsUO7NB9T0j1JC2j8vxcfLEh\nkCQzEjT9PrfgNaf9ruCsyrlgcUZqmfBeGBBPCJH18LZK4jzZrFMLlVBiYvYZ5NWj\n06nd+jtN1ansyrnO0Z80dWdtMQKBgQDQf9xQ9v4HYyk8wdCxvpBR9YXUW86dR5sI\nJXr0qxuAbul2cechj9L3jFSrirJA3Oo/yvHVjIAg7AUgpTNWLrO6A78YfRIINSov\nLF0RCJS9TSkRxMxphYbWRZ0PF+VMRrhnkRAJgVnEz4gWxt9XCkA08eEjfCCGaQwr\nxuwF/uLdQwKBgQDOKK3mcLXPfI6cj1mu6MEGONJYpi4hnlc49x/VJOTZMCFQwiNo\n7HaLl5j6//pk+EdX5YUE41clmKBFn0TuW75hULKcpOzOClVCpglLUK91vNT7wTVQ\nlspfkvoUn37Ef87zQCwDRzp6CjrJcZ0CVcmLhPZf5w2v9Us3PU0e5o2rwQKBgGtE\nbN/GwtigHpYgjLL1fKB99ZVUik8GiO8/ASwhX+vKpBgI78Wnjf1H2EPM/no6bdXW\nHmckesL1SooKFAhRzKt1w/ngVsecOpC8fUEHLibaLLf0jMn5JW7Vr8EVJSYB+Fto\nGV0ajEmiD7zQIhVQs8nJa2/rK3ybTOS02bcX9DWrAoGBAIyhht1bb81TLIududsO\nQjYZIjFYnuqXE9r8E492rZlKX1+5s+a4tXrU3lK1dnUwaloZVobLJJdSN/6SWVyS\n+PfgjdLszyLCoVwme1DWs9cfVPNv83aPoaLaOUq9840u5Qvpt8s2fb48kcPVJSLt\nxm+GaOgRwvwphpEvDhJw1X05\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-4pn2-g06ycumg1nroc9rqm27tl@kanna-chan-mirror-drive.iam.gserviceaccount.com",
+  "client_id": "118306769185060511336",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-4pn2-g06ycumg1nroc9rqm27tl%40kanna-chan-mirror-drive.iam.gserviceaccount.com"
+}
